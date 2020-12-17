@@ -2,7 +2,18 @@
 *$MATCHING ForRepeatedSpecialization;
 *$STRATEGY Applicative;
 
-$ENTRY Go { (e.Rules) = <Eq (e.Rules) <Sim ( ) <Decode (<Conc ('As =') ' Cs'>)>>>;}
+$ENTRY Go
+{ (e.Rules) =
+<Eq (e.Rules) <Sim ( )
+ <Decode (<Conc ('a e Bs f Hs b a b f Es b e d d e d f  =')
+' a Ds e c a f c Hs c f b a b a Cs f e d f e a d b e d d e d f' >)> 
+ <Decode (<Conc ('a a e d c b e c e d c d a a b a b c e a b f b d a b e b c e d f a f f Hs b f c  =')
+' a a e d c b e c e d c d a a b a b c e a b f b d a b e b c e d f a f f Hs b f c' >)> 
+ <Decode (<Conc ('e f e f d a f d b b d e f e b f a c e f f f c e a d e d e e b f b d e c d c b d  =')
+' e f e f d a f d b b d e f e b f a c e f f f c e a d e d Ds b f b d e c d c b d' >)> 
+ >>;
+}
+
 
 /* Auxiliary function concatenating too long input strings.*/
 Conc {(e.1) e.2 = e.1 e.2;}
