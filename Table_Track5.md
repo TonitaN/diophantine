@@ -4,7 +4,7 @@ cvc4 v.1.8 (November 2020)
 
 z3 v.4.8.9 (November 2020)
 
-         |  cvc4   | z3str3  | IntSCP  |
+ Test    |  cvc4   | z3str3  | IntSCP  |
 ---------|---------|---------|---------|
 Test 1   |   sat   |   sat   |   sat   |
 Test 2   |   sat   |   sat   |   sat   |
