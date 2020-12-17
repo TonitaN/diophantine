@@ -4,14 +4,6 @@ z3 v.4.8.9 (November 2020)
 
 The complete verification results of Track 5. 
 
-Equation Id   | Acyclic | Quadratic | 1-Variable | Solved | Has Solutions | Solutions Type |
---------------|---------|-----------|------------|--------|---------------|----------------|
-Equation 1    |    +    |     +     |      -     |    +   |       +       |       0        |
-Equation 2    |    -    |     -     |      -     |    +   |       +       |    regular     |
-Equation 3    |    -    |     -     |      -     |    +   |       +       |    regular     |
-
-
-         |  cvc4   | z3str3  | IntSCP  |
 ---------|---------|---------|---------|
 Test 1   |   sat   |   sat   |   sat   |
 Test 2   |   sat   |   sat   |   sat   |
