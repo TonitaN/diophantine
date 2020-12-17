@@ -116,7 +116,7 @@ Test 107 |   sat   |   sat   |   sat   |
 Test 108 |   sat   |   sat   |   sat   |
 Test 109 |   sat   |   sat   |   sat   |
 Test 110 |   sat   |   sat   |   sat   |
-Test 111 |   sat   |   sat   |  unsat  |
+Test 111 |  unsat  |  unsat  |  unsat  |
 Test 112 |   sat   |   sat   |   sat   |
 Test 113 |   sat   |   sat   |   sat   |
 Test 114 | unknown |   sat   |   sat   |
