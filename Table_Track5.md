@@ -130,7 +130,7 @@ Test 121 |   sat   |   sat   |   sat   |
 Test 122 |   sat   |   sat   |   sat   |
 Test 123 |   sat   |   sat   |   sat   |
 Test 124 |   sat   |   sat   |   sat   |
-Test 125 |   sat   | unknown |  unsat  |
+Test 125 |  unsat  | unknown |  unsat  |
 Test 126 |   sat   |   sat   |   sat   |
 Test 127 |   sat   |   sat   |   sat   |
 Test 128 |   sat   |   sat   |   sat   |
@@ -150,12 +150,12 @@ Test 141 |   sat   |   sat   |   sat   |
 Test 142 |   sat   |   sat   |   sat   |
 Test 143 |   sat   |   sat   |   sat   |
 Test 144 |   sat   |   sat   |   sat   |
-Test 145 |   sat   |   sat   |  unsat  |
+Test 145 |  unsat  |  unsat  |  unsat  |
 Test 146 |   sat   |   sat   |   sat   |
 Test 147 |  unsat  |  unsat  |  unsat  |
 Test 148 |  unsat  |  unsat  |  unsat  |
 Test 149 |   sat   |   sat   |   sat   |
-Test 150 |   sat   |   sat   |  unsat  |
+Test 150 |  unsat  |  unsat  |  unsat  |
 Test 151 |   sat   | unknown |   sat   |
 Test 152 |   sat   |   sat   |   sat   |
 Test 153 |   sat   |   sat   |   sat   |
